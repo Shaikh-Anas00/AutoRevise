@@ -509,7 +509,7 @@ pip install -r requirements.txt
 DB_CONFIG = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'Root123',  # ← Change to your MySQL password
+    'password': 'password',  # ← Change to your MySQL password
     'database': 'autorevise_db'
 }
 
