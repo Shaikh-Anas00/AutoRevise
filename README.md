@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Flask](https://img.shields.io/badge/Flask-3.0+-green.svg)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0+-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 > A web-based flashcard system powered by the SM-2 spaced repetition algorithm, designed to help students optimize their learning and retention.
 
@@ -323,32 +322,8 @@ Contributions are welcome! Here's how you can help:
 - [ ] AI-generated flashcards
 - [ ] Offline mode with sync
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-**Shaikh Anas** - *Initial work* - [Shaikh-Anas00](https://github.com/Shaikh-Anas00)
-
-## 🙏 Acknowledgments
-
-- **SM-2 Algorithm** by Piotr Woźniak (SuperMemo)
-- **Flask Community** for excellent documentation
-- **Font Awesome** for icons
-- All contributors and testers
-
-## 📧 Contact & Support
-
-- **GitHub Issues**: [Report a bug](https://github.com/Shaikh-Anas00/AutoRevise/issues)
-- **Project Link**: [AutoRevise Repository](https://github.com/Shaikh-Anas00/AutoRevise)
-
-## 🌟 Show Your Support
-
-Give a ⭐ if this project helped you learn better!
-
----
 
 **Built with ❤️ for students who want to study smarter, not harder.**
 
 *Last Updated: December 2025*
+
