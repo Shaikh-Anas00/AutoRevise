@@ -1,0 +1,11 @@
+Question,Answer
+What is JavaScript?,A high-level programming language used primarily for web development
+What is a variable?,A container for storing data values
+What is a function?,A reusable block of code that performs a specific task
+What is an array?,A data structure that stores multiple values in a single variable
+What is a loop?,A programming construct that repeats a block of code multiple times
+What is an object?,A collection of key-value pairs in JavaScript
+What is the DOM?,Document Object Model - a programming interface for HTML documents
+What is JSON?,JavaScript Object Notation - a lightweight data interchange format
+What is an API?,Application Programming Interface - a set of rules for building software
+What is async/await?,Modern syntax for handling asynchronous operations in JavaScript
